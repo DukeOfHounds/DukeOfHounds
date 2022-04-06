@@ -3,7 +3,7 @@
 ## I'm a Student at the University of Maryland - College Park
 - 🔭 I’m currently working on [Operation Coffee Shop][OCSGithub]!
 - 🌱 I’m currently learning Computer Science with a love for game Design.
-- 👯 I’m looking to collaborate with other students to hoen fundamentals in Unity. 
+- 👯 I’m looking to collaborate with other students to hone fundamentals in Unity. 
 - ⚡ Fun fact: I love discussing psychology and philosophy to understand how we think. 
 
 
