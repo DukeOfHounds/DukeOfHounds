@@ -25,7 +25,7 @@
 
 ---
 
-<img align = "left" alt = "DukeOfHounds' Github Stats" src = "https://github-readme-stats.vercel.app/api?username-DukeOfHounds&show_icons=true&hide_border=true" />
+<img align = "left" alt = "DukeOfHounds' Github Stats" src = "https://github-readme-stats.vercel.app/api?username=DukeOfHounds&show_icons=true&hide_border=true" />
 
 <br />
 
