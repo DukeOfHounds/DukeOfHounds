@@ -14,7 +14,7 @@
 
 - You can find the repository [here][PrbGithub], if you would like to see gameplay footage, a thorough description, or to access the code.
 - I coolabroated with 16 other students from Moorpark Community College as apart of Game Technology 1 Course. 
--This was my second Unity project.
+- This was my second Unity project.
 
 <br>
 ### Cthulhu In Space 🌍🚀🌌( ;,;)🌌🚀🌍
