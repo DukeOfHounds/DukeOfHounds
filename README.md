@@ -7,9 +7,10 @@
 - ⚡ Fun fact: I love discussing psychology and philosophy to understand how we think. 
 
 <br />
-##Previous Projects
+## Previous Projects
 <br/>
-#Cthulhu In Space 🌍🚀🌌( ;,;)🌍🚀🌌
+# Cthulhu In Space 🌍🚀🌌( ;,;)🌍🚀🌌
+<br />
 -[Github Repository][CISGithub]
 <br />
 <br />
