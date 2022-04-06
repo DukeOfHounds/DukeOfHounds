@@ -23,6 +23,10 @@
 -  I coolabroated with 6 other students from Moorpark Community College as apart of Game Technology 1 Course. 
 -  This was my first ever Unity project!
 
+---
+
+<img align = "left" alt = "DukeOfHounds' Github Stats" src = "https://github-readme-stats.vercel.app/api?username-DukeOfHounds&show_icons=true&hide_border=true" />
+
 <br />
 
 [OCSGithub]: https://github.com/CornKerne1/OperationCoffeeShop
