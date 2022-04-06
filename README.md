@@ -6,8 +6,9 @@
 - 👯 I’m looking to collaborate with other students to hoen fundamentals in Unity. 
 - ⚡ Fun fact: I love discussing psychology and philosophy to understand how we think. 
 
+<br />
 ##Previous Projects
-
+<br/>
 #Cthulhu In Space 🌍🚀🌌( ;,;)🌍🚀🌌
 -[Github Repository][CISGithub]
 <br />
