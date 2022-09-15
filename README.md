@@ -1,7 +1,7 @@
 ### Hi there, I'm Connor Hartzog - aka DukeOfHounds
 
 ## I'm a Student at the University of Maryland - College Park
-- 🔭 I’m currently working on [Operation Coffee Shop][OCSGithub]!
+- 🔭 I’m currently working on Cozy Cabin Coffee Boutique, check out our [Youtube][CCCBYouTube], our [Instagram][CCCBInstagram] and our [Twitter][CCCBTwitter]! 
 - 🌱 I’m currently learning Computer Science with a love for game Design.
 - 👯 I’m looking to collaborate with other students to hone fundamentals in Unity. 
 - ⚡ Fun fact: I love discussing psychology and philosophy to understand how we think. 
@@ -29,6 +29,8 @@
 
 <br />
 
-[OCSGithub]: https://github.com/CornKerne1/OperationCoffeeShop
+[CCCBYouTube]: https://www.youtube.com/channel/UCTaYMmXYWcC_iW1X8_XdQJQ
+[CCCBInstagram]: https://www.instagram.com/cozy_cabin_coffee_boutique/
+[CCCBTwitter]: https://twitter.com/CozyCabinCoffee
 [CISGithub]: https://github.com/DukeOfHounds/Cathulu-but-in-Space/tree/develop
 [PrbGithub]: https://github.com/CornKerne1/AdventureHorror
