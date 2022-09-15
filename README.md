@@ -33,4 +33,4 @@
 [CCCBInstagram]: https://www.instagram.com/cozy_cabin_coffee_boutique/
 [CCCBTwitter]: https://twitter.com/CozyCabinCoffee
 [CISGithub]: https://github.com/DukeOfHounds/Cathulu-but-in-Space/tree/develop
-[PrbGithub]: https://github.com/CornKerne1/AdventureHorror
+[PrbGithub]: https://github.com/DukeOfHounds/AdventureHorror
