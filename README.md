@@ -1,10 +1,10 @@
 ### Hi there, I'm Connor Hartzog - aka DukeOfHounds
 
 ## I'm a Student at the University of Maryland - College Park
-- 🔭 I’m currently working on Cozy Cabin Coffee Boutique, check out our [Youtube][CCCBYouTube], our [Instagram][CCCBInstagram] and our [Twitter][CCCBTwitter]! 
-- 🌱 I’m currently learning Computer Science with a love for game Design.
-- 👯 I’m looking to collaborate with other students to hone fundamentals in Unity. 
-- ⚡ Fun fact: I love discussing psychology and philosophy to understand how we think. 
+- 🔭 I’m currently working on ☕Cozy Cabin Coffee Boutique☕, check out our [Youtube][CCCBYouTube], our [Instagram][CCCBInstagram] and our [Twitter][CCCBTwitter]! 
+- 🌱 I’m currently learning Computer Science with a love for Game Design.
+- 👯 I’m looking to find a Software Engineering Position at a extended reality or game development company. 
+- ⚡ Fun fact: I love discussing psychology and philosophy. It's important to be to understand how each of us think. 
 
 
 ##  Previous Projects
